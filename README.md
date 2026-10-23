@@ -27,7 +27,13 @@ para identificar tendencias, años de mayor variación y los días de mayores al
 - TRM promedio histórica: $2.372,72; mínimo $620,62; máximo $5.061,21 (2022).
 - Años de mayor volatilidad (desviación estándar): 2022 (387,65), 2023 (318,41) y 2015 (293,12).
 - Solo 5 días con TRM superior a $5.000.
-
+  
+## Interpretación de los resultados
+- **Tendencia de largo plazo:** la TRM pasó de unos $630 en 1991 a un promedio de $4.052 en 2025, con un máximo histórico de $5.061,21 en 2022. En la gráfica mensual se ve una tendencia al alza con periodos de fuerte aceleración.
+- **Años de mayor volatilidad:** 2022 (desviación estándar de 387,65), 2023 (318,41) y 2015 (293,12). Son años con movimientos bruscos dentro del mismo año, no cambios graduales.
+- **Posibles factores asociados:** [escribe aquí 1 o 2 causas, con su fuente]. Por ejemplo, en 2015 la caída del precio del petróleo, que presionó la tasa de cambio, y en 2022 el fortalecimiento global del dólar y la incertidumbre económica y política.
+- **Limitación:** este análisis es descriptivo; identifica cuándo hubo mayor variación, pero no demuestra causalidad.
+  
 ## Requisitos
 - Ubuntu 22.04 (máquina virtual), Java 11
 - Apache Spark 3.5.8 (Scala 2.12.18) y Python 3.10
@@ -47,3 +53,10 @@ para identificar tendencias, años de mayor variación y los días de mayores al
 ## Nota
 La "variación diaria" compara registros consecutivos del archivo. Como la TRM de fines de semana
 se publica con vigencia de varios días, algunas variaciones son entre periodos de vigencia.
+
+## Referencias
+Apache Software Foundation. (2026). *Apache Kafka* (Versión 3.9.2) [Software]. https://kafka.apache.org/
+
+Apache Software Foundation. (2026). *Apache Spark* (Versión 3.5.8) [Software]. https://spark.apache.org/
+
+Superintendencia Financiera de Colombia. (s. f.). *Tasa de Cambio Representativa del Mercado (TRM)* [Conjunto de datos]. Datos Abiertos Colombia. https://www.datos.gov.co/d/32sa-8pi3
