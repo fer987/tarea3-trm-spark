@@ -31,8 +31,8 @@ para identificar tendencias, años de mayor variación y los días de mayores al
 ## Interpretación de los resultados
 - **Tendencia de largo plazo:** la TRM pasó de unos $630 en 1991 a un promedio de $4.052 en 2025, con un máximo histórico de $5.061,21 en 2022. En la gráfica mensual se ve una tendencia al alza con periodos de fuerte aceleración.
 - **Años de mayor volatilidad:** 2022 (desviación estándar de 387,65), 2023 (318,41) y 2015 (293,12). Son años con movimientos bruscos dentro del mismo año, no cambios graduales.
-- **Posibles factores asociados:** [escribe aquí 1 o 2 causas, con su fuente]. Por ejemplo, en 2015 la caída del precio del petróleo, que presionó la tasa de cambio, y en 2022 el fortalecimiento global del dólar y la incertidumbre económica y política.
-- **Limitación:** este análisis es descriptivo; identifica cuándo hubo mayor variación, pero no demuestra causalidad.
+- **Posibles factores asociados:** el máximo histórico y la mayor volatilidad coinciden con 2022, año en que el Banco de la República (2022) describió un comportamiento volátil y una depreciación significativa del peso, explicada por factores externos e internos. Entre los externos, la alta inflación llevó a la Reserva Federal de EE. UU. a subir sus tasas de interés (Bancolombia, 2022). Entre los internos, el Banco de la República reconoció que la incertidumbre por la reforma tributaria elevó el dólar en octubre (Valora Analitik, 2022).
+- - **Limitación:** este análisis es descriptivo; identifica cuándo hubo mayor variación, pero no demuestra causalidad.
   
 ## Requisitos
 - Ubuntu 22.04 (máquina virtual), Java 11
