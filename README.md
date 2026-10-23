@@ -59,4 +59,11 @@ Apache Software Foundation. (2026). *Apache Kafka* (Versión 3.9.2) [Software]. 
 
 Apache Software Foundation. (2026). *Apache Spark* (Versión 3.5.8) [Software]. https://spark.apache.org/
 
+Banco de la República. (2022). *Blog BanRep: El comportamiento de la tasa de cambio y las estrategias de política*. https://www.banrep.gov.co/es/noticias/blog-banrep-comportamiento-tasa-cambio-estrategias-politica
+
+Bancolombia. (2022, 23 de agosto). *¿Cuál es la tendencia del dólar en Colombia 2022?* https://blog.bancolombia.com/actualidad/tendencia-dolar-colombia-2022/
+
 Superintendencia Financiera de Colombia. (s. f.). *Tasa de Cambio Representativa del Mercado (TRM)* [Conjunto de datos]. Datos Abiertos Colombia. https://www.datos.gov.co/d/32sa-8pi3
+
+Valora Analitik. (2022, 29 de noviembre). *BanRep: incertidumbre por gobierno Petro elevó dólar en Colombia en octubre*. https://www.valoraanalitik.com/banrep-incertidumbre-por-gobierno-petro-elevo-dolar-en-colombia-en-octubre/
+
